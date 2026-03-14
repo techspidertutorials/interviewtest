@@ -21,6 +21,7 @@ public class StreamTest {
 	    	String items[]={"java","c","c++"};
 	    	for (String string : items) {
 				System.out.println(string);
+				System.out.println("demo 1234565");
 			}
 
 	}
